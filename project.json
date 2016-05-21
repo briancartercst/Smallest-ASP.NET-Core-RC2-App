@@ -20,7 +20,7 @@
     "Microsoft.AspNetCore.Server.Kestrel":"1.0.0-*"
   },
   "commands": {
-      "kestrel": "Microsoft.AspNetCore.Server.Kestrel --server Kestrel --server.urls http://localhost:5004"
+      "kestrel": "Microsoft.AspNetCore.Server.Kestrel --server Kestrel --server.urls http://localhost:5000"
   }, 
   "frameworks": {
     "netcoreapp1.0": {
